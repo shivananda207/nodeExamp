@@ -1,0 +1,14 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "test",
+ 
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
