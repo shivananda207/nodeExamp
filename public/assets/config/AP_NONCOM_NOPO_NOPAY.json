@@ -1,0 +1,66 @@
+{
+    "CONFIG" :{
+"ENABLE" : [
+    {
+"id":"vmdProcess",
+"style":"none",
+"activeclass":"",
+"displayclass":""
+},
+{
+"id":"rejectInv",
+"style":"block",
+"activeclass":"",
+"displayclass":""
+},
+{
+"id":"fwd2Buyer",
+"style":"none",
+"activeclass":"active",
+"displayclass":"tab-pane fade in active well well-lg actionWell"
+},
+{
+"id":"updateCompCode",
+"style":"none",
+"activeclass":"",
+"displayclass":""
+},
+{
+"id":"remitTovalidation",
+"style":"none",
+"activeclass":"",
+"displayclass":""
+},
+{
+"id":"npnpListAddition",
+"style":"block",
+"activeclass":"",
+"displayclass":""
+},
+{
+"id":"submitAsNonPO",
+"style":"block",
+"activeclass":"",
+"displayclass":""
+},
+{
+"id":"processOutsideBC",
+"style":"none",
+"activeclass":"",
+"displayclass":""
+},
+{
+"id":"buyerDelegation",
+"style":"none",
+"activeclass":"",
+"displayclass":""
+}  
+],
+"STATUS":"ABC",
+"REASONCODE" : "TEST" 
+} 
+}
+
+
+
+
