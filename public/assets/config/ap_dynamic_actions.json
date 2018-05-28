@@ -1,8 +1,0 @@
-{
-    "CONFIG" : {
-"RECORDS" :[
-{"STATUS":"AWAITING IBM AP ACTION","REASON":"Vendor not found / Modification","FILENAME":"AP_VENDOR_NOT_FOUND.json"},
-{"STATUS":"AWAITING IBM AP ACTION","REASON":"Non Compliance to NO PO NO PAY","FILENAME":"AP_NONCOM_NOPO_NOPAY.json"}
-]
-}
-}
