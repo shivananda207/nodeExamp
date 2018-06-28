@@ -1,7 +1,7 @@
 //Node Express server
 //Load HTTP module
 var http = require("http");
-var constant = "uat"
+var constant = "test"
 
 //Create HTTP server and listen on port 8000 for requests
 http.createServer(function (request, response) {
